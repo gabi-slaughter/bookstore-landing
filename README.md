@@ -1,4 +1,7 @@
 # bookstore-landing
 
-bookstore landing page
-html + css only (for now)
+actually it's just me scraping nightwing comics.
+
+html, css, react frontend
+python flask backend
+
